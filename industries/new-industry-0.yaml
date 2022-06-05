@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- TRAK
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - -1
+name: 'New industry #0'
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary
