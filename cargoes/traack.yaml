@@ -1,0 +1,17 @@
+abbreviation: TK
+available: false
+classes: 1056
+colour: 6
+id: 0
+label: TRAK
+longName: traack
+name: Traack
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 205603
+sprite:
+  filename: cargoes/traack.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 13
